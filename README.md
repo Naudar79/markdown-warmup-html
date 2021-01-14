@@ -13,5 +13,5 @@ MODE : Solo
 
 | Estimed time | Real time |
 |--------------|-----------|
-|60 mins       |           |
+|60 mins       |58 mins    |
 |--------------|-----------|
